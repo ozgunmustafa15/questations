@@ -1,0 +1,79 @@
+.navbar{
+    border-bottom:#f62459 3px solid;
+    border-bottom-right-radius:7px;
+    border-bottom-left-radius:7px;
+}
+.container{
+    width: 700px;
+}
+.input-group{
+    padding: 10px !important;
+    margin-bottom: 18px;
+
+}
+.nav-item:hover{
+
+}
+
+
+
+.koseleme:hover{
+    background-color: white !important;
+    border-radius: 15px;
+    padding: 3px;
+}
+
+.btn:hover{
+    background-color: #f62459;
+    border-color: white;
+}
+
+a{
+    color: #0D3349;
+}
+.fab:hover{
+    color: #f62459;
+    border-color: white;
+}
+.fas:hover{
+    color: #f62459;
+    border-color: white;
+}
+.logo{
+    background-color: transparent;
+    padding: 5px;
+}
+#footer{
+    border-top:#f62459 3px solid;
+    border-top-right-radius:7px;
+    border-top-left-radius:7px;
+}
+.ppShow{
+    width: 200px;
+    height: 200px;
+    border: 5px solid #F5F5F5;
+
+    border-radius: 100px;
+
+}
+.ppThumb{
+    width: 50px;
+    height: 50px;
+}
+html {
+    height: 100%;
+}
+
+
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction:column;
+}
+
+.site {
+    display: table;
+    height: 100%;
+
+}
+

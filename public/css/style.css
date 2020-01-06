@@ -1,0 +1,232 @@
+.bg-danger{
+	background-color: #E52755 !important;
+}
+.carousel-indicators li {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    border: 1px solid #d3d9df;
+    border-radius: 100%;
+    background-color: white;
+
+}
+.carousel-indicators .active {
+    border: 1px solid white;
+    width: 10px;
+    height: 10px;
+    background-color: #e52755;
+}
+
+.logo:hover{
+    transform: scale(1.1) ;
+    transition: 0.3s ease;
+}
+
+.oc{
+    width: 100%;
+    height: 300px;
+    background-color: #f1f2f6;
+}
+.navbar{
+    border-bottom:#f62459 3px solid;
+    border-bottom-right-radius:7px;
+    border-bottom-left-radius:7px;
+}
+
+.input-group{
+    padding: 10px !important;
+    margin-bottom: 18px;
+
+}
+.nav-item:hover{
+
+}
+
+
+.altiCiz:hover{
+  
+  border-bottom: 2px solid #f62459;
+  padding: 3px 0; 
+}
+
+.koseleme:hover{
+    transform: scale(1.0) ;
+    transition: 0.3s ease;
+
+}
+
+.btn:hover{
+    background-color: #f62459;
+    border-color: white;
+
+}
+
+a{
+    color: #0D3349;
+}
+.fa:hover{
+    color: #f62459;
+    border-color: white;
+}
+.fas:hover{
+    color: #f62459;
+    border-color: white;
+}
+.far:hover{
+    color: #f62459;
+    border-color: white;
+}
+.fab:hover{
+    color: #f62459;
+    border-color: white;
+}
+.logo{
+    background-color: transparent;
+    padding: 5px;
+}
+#footer{
+    border-top:#f62459 3px solid;
+    border-top-right-radius:7px;
+    border-top-left-radius:7px;
+}
+.ppShow{
+    width: 200px;
+    height: 200px;
+    border: 5px solid #F5F5F5;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 100px;
+
+}
+
+.golge{    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.golge-icon
+{
+    text-shadow: 4px 4px 5px lightgray;
+
+}
+.ppThumb{
+    width: 50px;
+    height: 50px;
+}
+
+
+html {
+    height: 100%;
+}
+
+
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction:column;
+}
+
+.site {
+    display: table;
+    height: 100%;
+
+}
+.lbl{
+    font-family:Calibri!important;
+    font-size: 13px;
+    color: #adb5bd;
+}
+
+.input-profil-duzenle{
+    font-size: 14px;
+
+}
+
+.site-url
+{
+    color: #b3b7bb!important;
+}
+
+
+
+.footer-nav{
+    background-color: #f8f9fb!important;
+}
+.bg-light{
+    background-color :whitesmoke!important;
+}
+.kullanici-liste
+{
+    text-decoration:none;
+}
+
+.kullanici-liste:hover
+{
+    background-color: whitesmoke !important;
+}
+
+.cbg{
+    width: 100%;
+    height: 640px;
+    background-color: #e0194a;
+}
+
+
+
+@media screen and (min-width: 1199.98px){
+
+    .container{
+        width: 700px;
+
+
+    }
+}
+@media screen and (min-width: 992px){
+
+    .container{
+        width: 700px;
+
+
+    }
+}
+
+
+@media screen and (min-width: 768px){
+
+    .container{
+        width: 700px;
+    }
+
+
+}
+
+@media screen and (max-width: 600px){
+
+    .container{
+        padding: 0px;
+
+
+    }
+    .profil-kucuk{
+        font-size: 15px!important;
+    }
+    .tab-kucuk{
+        font-size: 12px!important;
+
+    }
+    .nav nav-tabs{
+        font-size: 5px;
+    }
+
+    li{
+        font-size: 13px;
+    }
+
+    h5{
+        font-size: 15px!important;
+        letter-spacing: 2px;
+    }
+    h4{
+        font-size: 13px!important;
+    }
+
+}
+
+
+
